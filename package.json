@@ -1,0 +1,21 @@
+{
+  "name": "vscode-tokyo-theme",
+  "displayName": "VSCode Tokyo Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "$schema": "vscode://schemas/color-theme",
+  "name": "tokyo",
   "type": "dark",
   "colors": {
     "activityBar.background": "#0c1e25",

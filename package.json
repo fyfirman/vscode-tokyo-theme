@@ -1,8 +1,13 @@
 {
   "name": "vscode-tokyo-theme",
   "displayName": "VSCode Tokyo Theme",
+  "publisher": "fyfirman",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fyfirman/vscode-tokyo-theme.git"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
